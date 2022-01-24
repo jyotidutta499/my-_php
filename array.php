@@ -6,6 +6,8 @@ $a=array(5,6,7);
 print_r($a);
 echo "<br>";
 
+
+//checking
 //associative array
 $b=array("4"=>"RED","7"=>"BLACK");
 print_r($b);
